@@ -1,2 +1,2 @@
 # Weather-Forcast-Guide
-ตู่มือในการใช้แอปพลิเคชัน Weather Forecast
+คู่มือในการใช้แอปพลิเคชัน Weather Forecast
